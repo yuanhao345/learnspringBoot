@@ -1,0 +1,16 @@
+#server:
+  #port: 8182
+
+#preson:
+#  lastName: 袁昊
+ # age: 28
+#  boss: true
+#  birth: 1992/07/30
+#  maps: {k1: v1,k2: 20}
+ # lists:
+#    - cat
+ #   - dog
+ #   - monster
+ # dog:
+ #   name: dd
+ #   age: 2
